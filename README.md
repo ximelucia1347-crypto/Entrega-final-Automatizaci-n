@@ -20,7 +20,7 @@ Los archivos contienen los flujos técnicos de los dos escenarios implementados:
 
 - [Escenario 1](./Escenario%201%20Trabajo%20final.blueprint.json)
 - [Escenario 2](./Escenario%202%20Trabajo%20final.blueprint.json)
-- 
+
 ## Base de datos de Notion
 
 El sistema utiliza una estructura de datos dividida en tres bases relacionadas:
