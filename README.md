@@ -34,3 +34,11 @@ El sistema utiliza una estructura de datos dividida en tres bases relacionadas:
 - Base de datos de Prospectos: https://app.notion.com/p/3b7dcc5c2d57806b9e84e6b911e8d030?v=3b7dcc5c2d57803caaf9000c39a4b961&source=copy_link
 - Base de datos de Propuestas https://app.notion.com/p/3b7dcc5c2d57806eb9c5d79bde403513?v=3b7dcc5c2d578035a4d1000c6ac63ad4&source=copy_link
 - Base de datos de Logs: https://app.notion.com/p/3b7dcc5c2d578075b3c7e1cedca6a5c6?v=3b7dcc5c2d5780ab90ba000c7a79ad95&source=copy_link
+  
+## Video de demostración
+
+Video demostrativo del funcionamiento del sistema de automatización de propuestas comerciales, desarrollado con Make, Cohere y Notion.
+
+El video muestra el funcionamiento de los dos escenarios implementados, incluyendo el procesamiento de los datos, la generación de propuestas, la gestión de estados y el registro de errores.
+
+[Ver video de demostración](https://drive.google.com/file/d/1BdGNJp6QNtQyF5pX3ZRiUsa1DCO7W4UP/view?usp=drive_link)
